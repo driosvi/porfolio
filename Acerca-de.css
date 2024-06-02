@@ -347,7 +347,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 933px;
+  min-height: 934px;
 }
 
 .u-section-3 .u-text-1 {
@@ -357,4 +357,6 @@
 .u-section-3 .u-custom-html-1 {
   margin-bottom: 60px;
   margin-top: 30px;
+  height: auto;
+  min-height: 761px;
 }
